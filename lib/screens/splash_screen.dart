@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:what_eat/helpers/image_helper.dart';
-import 'package:what_eat/helpers/sound_helper.dart';
 import 'package:what_eat/screens/weather_screen.dart';
-import 'package:what_eat/services/audio_services.dart';
 import 'package:what_eat/widgets/button_sound.dart';
 import 'package:what_eat/widgets/layout.dart';
 

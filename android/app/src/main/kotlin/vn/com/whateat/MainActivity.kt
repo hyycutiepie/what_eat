@@ -1,4 +1,4 @@
-package com.example.what_eat
+package vn.com.whateat
 
 import io.flutter.embedding.android.FlutterActivity
 

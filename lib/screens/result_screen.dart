@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:what_eat/helpers/image_helper.dart';
 import 'package:what_eat/models/food_models.dart';
 import 'package:what_eat/screens/splash_screen.dart';
-import 'package:what_eat/services/audio_services.dart';
 import 'package:what_eat/services/food_services.dart';
 import 'package:lottie/lottie.dart';
 import 'package:what_eat/widgets/button_sound.dart';
